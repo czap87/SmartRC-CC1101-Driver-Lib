@@ -1,0 +1,32 @@
+Neuftech CC1101 Wireless Module RF Transceiver Modul 387-464 MHz mit externen Antenne
+
+Produktbeschreibungen
+
+CC1101 Wireless Module RF Transceiver Modul 387– 464 MHz mit externen Antenne für Arduino
+
+Um die effektive Kommunikation Abstand zu verstärken, wurde CC1101 Modul von einem inländischen
+Einheiten erforscht und entwickelt.
+
+Farbe: blau
+Material: PCB
+Modell: CC1101
+Betriebstemperatur :1.8-3.6V
+Betriebsfrequenz:(Modul:387-464MHZ)
+Unmittelbare maximale Stromstärke: <30mA;
+Maximale Sendeleistung: 10mW (+10dBm);
+Unterstützt 2-FSK, GFSK und MSK Modulation;
+Empfänger Empfindlichkeit -110dBm bei 1200 baud;
+Min. Arbeitsgeschwindigkeit: 1.2kbps; Max.: 500kbps;
+Getrennte 64-byte RX und TX Daten FIFO Buffer;
+Eingebaute CRC Fehlererkennungs Hardware versichert verlässliche Datenübertragung;
+Unterstützt RSSI Signalstärkenerkennung und Carrier Sense Access;
+
+- Anwendungsbereich: für Arduino oder DIY- Projekt
+- engerer Phasenrauschen zur Verbesserung der Leistung des angrenzenden Frequenzkanal (ACP).
+- Höhere Eingänge des Sättigung Level; Höhere Ausgangsleistung.
+- Kontinuierliche Frequenz Bänder Erweiterungen.Betriebsfrequenz:(Modul: 387–464 MHz);
+- Empfehlen Sie mit 433 MHz( ±10 MHz )Standard-Betriebsfrequenz zu benutzen.
+
+Lieferumfang:
+1x CC1101 RF- Modul
+1x Externe Antenne
